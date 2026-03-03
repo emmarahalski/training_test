@@ -4,3 +4,5 @@ a test repository to learn git
 ## Purpose
 - practice git
 - have fun
+- eat lunch
+
